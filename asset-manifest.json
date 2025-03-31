@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/readtimer/static/css/main.8eecbd47.css",
+    "main.js": "/readtimer/static/js/main.8f228ea3.js",
+    "static/js/453.77a6aea8.chunk.js": "/readtimer/static/js/453.77a6aea8.chunk.js",
+    "static/media/logo.png": "/readtimer/static/media/logo.21c3afd24a830320ffb5.png",
+    "index.html": "/readtimer/index.html",
+    "main.8eecbd47.css.map": "/readtimer/static/css/main.8eecbd47.css.map",
+    "main.8f228ea3.js.map": "/readtimer/static/js/main.8f228ea3.js.map",
+    "453.77a6aea8.chunk.js.map": "/readtimer/static/js/453.77a6aea8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eecbd47.css",
+    "static/js/main.8f228ea3.js"
+  ]
+}
